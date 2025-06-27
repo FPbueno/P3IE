@@ -1,0 +1,12 @@
+{
+  "name": "projeto-node-testes",
+  "version": "1.0.0",
+  "description": "Projeto exemplo com Jest e GitHub Actions",
+  "main": "soma.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
